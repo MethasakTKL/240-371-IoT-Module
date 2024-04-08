@@ -1,0 +1,7 @@
+{
+    "port": "/dev/tty.usbserial-140",
+    "configuration": "FlashFreq=80,PartitionScheme=default,CPUFreq=240,UploadSpeed=115200,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:d1_uno32",
+    "programmer": "esptool",
+    "sketch": "00-Rain/00-Rain.ino"
+}
